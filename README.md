@@ -6,8 +6,8 @@
 ---
 
 ## 🧠 About me
-Backend-focused developer working with REST APIs, data modeling, and business logic.
-University Technical Degree in Programming.
+Backend-focused developer working with REST APIs, data modeling, and business logic. <br>
+University Technical Degree in Programming.<br>
 Currently improving my skills in NestJS, best practices, and application architecture.
 
 ---
