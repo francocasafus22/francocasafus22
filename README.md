@@ -2,13 +2,12 @@
 
 💻 Backend Developer focused on Node.js and NestJS  
 ⚡ Full Stack Developer in training
-🎓 University Technical Degree in Programming
 
 ---
 
 ## 🧠 About me
 Backend-focused developer working with REST APIs, data modeling, and business logic.
-
+University Technical Degree in Programming.
 Currently improving my skills in NestJS, best practices, and application architecture.
 
 ---
