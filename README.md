@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Franco
 
 💻 Backend Developer focused on Node.js and NestJS  
-⚡ Full Stack Developer in training (MERN)
+⚡ Full Stack Developer in training
 
 ---
 
