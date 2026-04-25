@@ -2,6 +2,7 @@
 
 💻 Backend Developer focused on Node.js and NestJS  
 ⚡ Full Stack Developer in training
+🎓 University Technician in Programming
 
 ---
 
