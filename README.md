@@ -1,26 +1,16 @@
 # 👋 Hi, I'm Franco
 
 💻 Backend Developer focused on Node.js and NestJS  
-⚡ Full Stack Developer in training
-
----
-
-## 🧠 About me
-Backend-focused developer working with REST APIs, data modeling, and business logic.
-University Technical Degree in Programming.
-Currently improving my skills in NestJS, best practices, and application architecture.
-
----
-
 ⚡ Full Stack Developer in training (MERN)
 
 ---
 
 ## 🧠 About me
 Backend-focused developer working with REST APIs, data modeling, and business logic.
-University Technical Degree in Programming.
-Currently improving my skills in NestJS, best practices, and application architecture.
 
+🎓 University Technical Degree in Programming.
+
+Currently improving my skills in NestJS, best practices, and application architecture.
 ---
 
 ## ⚙️ Tech Stack
