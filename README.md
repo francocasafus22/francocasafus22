@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Franco
 
-<!--
-**francocasafus22/francocasafus22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer focused on Node.js and NestJS
+🚀 Full Stack Developer in training
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About me
+
+Backend-focused developer working with REST APIs, data modeling, and business logic.
+
+Currently improving my skills in NestJS, best practices, and application architecture.
+
+---
+
+## ⚙️ Tech Stack
+
+**Backend:** Node.js · NestJS · Express · TypeScript
+**Database:** Prisma · MongoDB · Supabase
+**Frontend:** React · Next.js · Tailwind
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/franco-casafus/
