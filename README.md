@@ -1,4 +1,4 @@
-# 👋 Franco Casafus | Backend Developer (Node.js & NestJS)
+# 👋 Hi! I´m Franco Casafus | Backend Developer (Node.js & NestJS)
 
 ## 🧠 About me
 Backend-focused developer building REST APIs with Node.js and NestJS.  
