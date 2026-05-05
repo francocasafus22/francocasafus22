@@ -3,7 +3,7 @@
 ## 🧠 About me
 Backend-focused developer building REST APIs with Node.js and NestJS.  
 Experience working with data modeling, authentication and scalable architectures.  
-Univeristy Techinical Degree in Programming UTN.
+University Technical Degree in Programming UTN.
 
 Currently improving my skills in:
 - Frontend with Next.js
