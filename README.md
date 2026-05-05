@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Franco
-
-💻 Backend Developer focused on Node.js and NestJS  
-⚡ Full Stack Developer in training
-
----
+# 👋 Franco Casafus | Backend Developer (Node.js & NestJS)
 
 ## 🧠 About me
-Backend-focused developer working with REST APIs, data modeling, and business logic. <br>
-University Technical Degree in Programming.<br>
-Currently improving my skills in NestJS, best practices, and application architecture.
+Backend-focused developer building REST APIs with Node.js and NestJS.  
+Experience working with data modeling, authentication and scalable architectures.  
+Univeristy Techinical Degree in Programming UTN.
+
+Currently improving my skills in:
+- Frontend with Next.js
+- NestJS best practices
+- Microservices
 
 ---
 
